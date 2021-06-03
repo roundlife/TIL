@@ -4,7 +4,7 @@
 
 ##### list
 
-- hetegeneous, sequence, mutable
+- heterogeneous, sequence, mutable
 
 ##### tuple
 
